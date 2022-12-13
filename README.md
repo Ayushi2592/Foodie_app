@@ -19,5 +19,7 @@ Menu Page:
 
 ![WhatsApp Image 2022-12-13 at 10 06 31 PM](https://user-images.githubusercontent.com/100715571/207394260-5c029802-65c2-4e1e-9408-68d655f9610c.jpeg)
 
+Note: Delivery Page is still in construction process, will add it soon.
+
 
 
